@@ -18,7 +18,11 @@ coverY: 0
 
 ### Installation
 
+#### XFCE4
 
+```
+udroid install focal:xfce4
+```
 
 ### Release Notes
 
